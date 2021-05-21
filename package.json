@@ -1,0 +1,19 @@
+{
+  "name": "task4_1",
+  "version": "1.0.0",
+  "description": "Netology Node.js course hometask 4_1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vl-mobitutor/Netology_Node_Task4_1.git"
+  },
+  "author": "Vyacheslav_L",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vl-mobitutor/Netology_Node_Task4_1/issues"
+  },
+  "homepage": "https://github.com/vl-mobitutor/Netology_Node_Task4_1#readme"
+}
